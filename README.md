@@ -8,6 +8,7 @@ Neste desafio proposto pelo UniSENAI/SC, teve-se como objetivo criar um modelo p
 * - O 'bootcamp_train2.csv' é o dataset utilizado no desafio bootcamp;
 * - O 'desafio_bootcamp_LuizRodrigoHamada_finalizado' é onde se encontra todas linhas de código, gráficos e modelagem do desafio;
 * - O 'modelo_random_forest.joblib' é o modelo importado que foi utilizado para teste no arquivo 'bootcamp_test.csv';
-* - O 'probabilidades.xlxs' é um arquivo que contém o resultado de todas as amostras com sua probabilidades associada da feature 'falha' dos dados de teste do arquivo 'bootcamp_train2.csv'; e
-* - O 'resultados_probabilidades' é arquivo que exporta os mesmos resultados, mas em formato csv.
+* - O 'probabilidades.xlxs' é um arquivo que contém o resultado de todas as amostras com sua probabilidades associada da feature 'falha' dos dados de teste do arquivo 'bootcamp_train2.csv'; 
+* - O 'resultados_probabilidades' é arquivo que exporta os mesmos resultados, mas em formato csv; e
+* - O 'desafio_bootcamp_LuizRodrigoHamada_test' é o código para testar o dataset 'bootcamp_test.csv' com o modelo criado 'modelo_random_forest.joblib'.
 
